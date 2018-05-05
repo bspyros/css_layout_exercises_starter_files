@@ -1,0 +1,43 @@
+.container {
+	display: flex;
+	flex-direction: flex-start;
+	flex-wrap: wrap;
+	width: 800px;
+	margin: auto;
+	border: 1px solid black;
+}
+
+.green {
+	height: 200px;
+	width: 50%;
+	background-color: green;
+	border: 1px solid black;
+}
+
+.blue {
+	height: 200px;
+	width: 50%;
+	background-color: blue;
+	border: 1px solid black;
+}
+
+.grey {
+	height: 300px;
+	width: 33.33%;
+	background-color: grey;
+	border: 1px solid black;
+}
+
+.black {
+	height: 300px;
+	width: 33.33%;
+	background-color: black;
+	border: 1px solid black;
+}
+
+.orange {
+	height: 300px;
+	width: 33.33%;
+	background-color: orange;
+	border: 1px solid black;
+}
